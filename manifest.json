@@ -313,5 +313,68 @@
     "url": "https://scotch-product-images.onrender.com/images/products/181101_401-XXL_bg.png",
     "processedAt": "2025-07-11T15:22:37.018Z",
     "size": 315169
+  },
+  {
+    "sku": "SS43313_001-OS",
+    "filename": "SS43313_001-OS_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/SS43313_001-OS_bg.png",
+    "processedAt": "2025-07-11T15:28:17.657Z",
+    "size": 83041
+  },
+  {
+    "sku": "SS43316_030-OS",
+    "filename": "SS43316_030-OS_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/SS43316_030-OS_bg.png",
+    "processedAt": "2025-07-11T15:28:18.635Z",
+    "size": 65298
+  },
+  {
+    "sku": "180867_410-34-34",
+    "filename": "180867_410-34-34_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_bg.png",
+    "processedAt": "2025-07-11T15:28:20.469Z",
+    "size": 224214
+  },
+  {
+    "sku": "181734_410-30-32",
+    "filename": "181734_410-30-32_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181734_410-30-32_bg.png",
+    "processedAt": "2025-07-11T15:28:22.209Z",
+    "size": 618234
+  },
+  {
+    "sku": "180860_610-L",
+    "filename": "180860_610-L_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180860_610-L_bg.png",
+    "processedAt": "2025-07-11T15:28:24.081Z",
+    "size": 694769
+  },
+  {
+    "sku": "181700_030-XXL",
+    "filename": "181700_030-XXL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181700_030-XXL_bg.png",
+    "processedAt": "2025-07-11T15:28:25.961Z",
+    "size": 506714
+  },
+  {
+    "sku": "180886_001-M",
+    "filename": "180886_001-M_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180886_001-M_bg.png",
+    "processedAt": "2025-07-11T15:28:27.613Z",
+    "size": 403728
+  },
+  {
+    "sku": "181101_401-XL",
+    "filename": "181101_401-XL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181101_401-XL_bg.png",
+    "processedAt": "2025-07-11T15:28:29.147Z",
+    "size": 315169
+  },
+  {
+    "sku": "181101_401-XXL",
+    "filename": "181101_401-XXL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181101_401-XXL_bg.png",
+    "processedAt": "2025-07-11T15:28:30.227Z",
+    "size": 315169
   }
 ]
