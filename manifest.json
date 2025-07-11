@@ -1160,5 +1160,1762 @@
     "url": "https://scotch-product-images.onrender.com/images/products/181101_401-XXL_10_bg.png",
     "processedAt": "2025-07-11T22:01:50.822Z",
     "size": 1349009
+  },
+  {
+    "sku": "181159_410-S",
+    "filename": "181159_410-S_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_bg.png",
+    "processedAt": "2025-07-11T22:14:54.902Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-S_1",
+    "filename": "181159_410-S_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_1_bg.png",
+    "processedAt": "2025-07-11T22:14:56.452Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-S_2",
+    "filename": "181159_410-S_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_2_bg.png",
+    "processedAt": "2025-07-11T22:14:58.540Z",
+    "size": 274476
+  },
+  {
+    "sku": "181159_410-S_3",
+    "filename": "181159_410-S_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_3_bg.png",
+    "processedAt": "2025-07-11T22:15:01.096Z",
+    "size": 537113
+  },
+  {
+    "sku": "181159_410-S_4",
+    "filename": "181159_410-S_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_4_bg.png",
+    "processedAt": "2025-07-11T22:15:03.012Z",
+    "size": 712846
+  },
+  {
+    "sku": "181159_410-S_5",
+    "filename": "181159_410-S_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_5_bg.png",
+    "processedAt": "2025-07-11T22:15:05.471Z",
+    "size": 644975
+  },
+  {
+    "sku": "181159_410-S_6",
+    "filename": "181159_410-S_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_6_bg.png",
+    "processedAt": "2025-07-11T22:15:08.530Z",
+    "size": 1560045
+  },
+  {
+    "sku": "181159_410-S_7",
+    "filename": "181159_410-S_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-S_7_bg.png",
+    "processedAt": "2025-07-11T22:15:11.596Z",
+    "size": 987896
+  },
+  {
+    "sku": "181159_410-M",
+    "filename": "181159_410-M_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_bg.png",
+    "processedAt": "2025-07-11T22:15:13.804Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-M_1",
+    "filename": "181159_410-M_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_1_bg.png",
+    "processedAt": "2025-07-11T22:15:14.698Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-M_2",
+    "filename": "181159_410-M_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_2_bg.png",
+    "processedAt": "2025-07-11T22:15:15.650Z",
+    "size": 274476
+  },
+  {
+    "sku": "181159_410-M_3",
+    "filename": "181159_410-M_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_3_bg.png",
+    "processedAt": "2025-07-11T22:15:16.815Z",
+    "size": 537113
+  },
+  {
+    "sku": "181159_410-M_4",
+    "filename": "181159_410-M_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_4_bg.png",
+    "processedAt": "2025-07-11T22:15:18.459Z",
+    "size": 712846
+  },
+  {
+    "sku": "181159_410-M_5",
+    "filename": "181159_410-M_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_5_bg.png",
+    "processedAt": "2025-07-11T22:15:20.205Z",
+    "size": 644975
+  },
+  {
+    "sku": "181159_410-M_6",
+    "filename": "181159_410-M_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_6_bg.png",
+    "processedAt": "2025-07-11T22:15:22.239Z",
+    "size": 1560045
+  },
+  {
+    "sku": "181159_410-M_7",
+    "filename": "181159_410-M_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-M_7_bg.png",
+    "processedAt": "2025-07-11T22:15:24.046Z",
+    "size": 987896
+  },
+  {
+    "sku": "181159_410-L",
+    "filename": "181159_410-L_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_bg.png",
+    "processedAt": "2025-07-11T22:15:26.220Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-L_1",
+    "filename": "181159_410-L_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_1_bg.png",
+    "processedAt": "2025-07-11T22:15:27.677Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-L_2",
+    "filename": "181159_410-L_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_2_bg.png",
+    "processedAt": "2025-07-11T22:15:29.108Z",
+    "size": 274476
+  },
+  {
+    "sku": "181159_410-L_3",
+    "filename": "181159_410-L_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_3_bg.png",
+    "processedAt": "2025-07-11T22:15:30.848Z",
+    "size": 537113
+  },
+  {
+    "sku": "181159_410-L_4",
+    "filename": "181159_410-L_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_4_bg.png",
+    "processedAt": "2025-07-11T22:15:32.206Z",
+    "size": 712846
+  },
+  {
+    "sku": "181159_410-L_5",
+    "filename": "181159_410-L_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_5_bg.png",
+    "processedAt": "2025-07-11T22:15:33.459Z",
+    "size": 644975
+  },
+  {
+    "sku": "181159_410-L_6",
+    "filename": "181159_410-L_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_6_bg.png",
+    "processedAt": "2025-07-11T22:15:35.437Z",
+    "size": 1560045
+  },
+  {
+    "sku": "181159_410-L_7",
+    "filename": "181159_410-L_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-L_7_bg.png",
+    "processedAt": "2025-07-11T22:15:37.796Z",
+    "size": 987896
+  },
+  {
+    "sku": "181159_410-XL",
+    "filename": "181159_410-XL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_bg.png",
+    "processedAt": "2025-07-11T22:15:39.798Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-XL_1",
+    "filename": "181159_410-XL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_1_bg.png",
+    "processedAt": "2025-07-11T22:15:40.661Z",
+    "size": 697386
+  },
+  {
+    "sku": "181159_410-XL_2",
+    "filename": "181159_410-XL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_2_bg.png",
+    "processedAt": "2025-07-11T22:15:41.581Z",
+    "size": 274476
+  },
+  {
+    "sku": "181159_410-XL_3",
+    "filename": "181159_410-XL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_3_bg.png",
+    "processedAt": "2025-07-11T22:15:42.830Z",
+    "size": 537113
+  },
+  {
+    "sku": "181159_410-XL_4",
+    "filename": "181159_410-XL_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_4_bg.png",
+    "processedAt": "2025-07-11T22:15:46.243Z",
+    "size": 712846
+  },
+  {
+    "sku": "181159_410-XL_5",
+    "filename": "181159_410-XL_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_5_bg.png",
+    "processedAt": "2025-07-11T22:15:47.847Z",
+    "size": 644975
+  },
+  {
+    "sku": "181159_410-XL_6",
+    "filename": "181159_410-XL_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_6_bg.png",
+    "processedAt": "2025-07-11T22:15:49.849Z",
+    "size": 1560045
+  },
+  {
+    "sku": "181159_410-XL_7",
+    "filename": "181159_410-XL_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181159_410-XL_7_bg.png",
+    "processedAt": "2025-07-11T22:15:52.136Z",
+    "size": 987896
+  },
+  {
+    "sku": "181164_270-S",
+    "filename": "181164_270-S_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_bg.png",
+    "processedAt": "2025-07-11T22:15:54.755Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-S_1",
+    "filename": "181164_270-S_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_1_bg.png",
+    "processedAt": "2025-07-11T22:15:55.605Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-S_2",
+    "filename": "181164_270-S_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_2_bg.png",
+    "processedAt": "2025-07-11T22:15:57.621Z",
+    "size": 262211
+  },
+  {
+    "sku": "181164_270-S_3",
+    "filename": "181164_270-S_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_3_bg.png",
+    "processedAt": "2025-07-11T22:15:59.392Z",
+    "size": 468892
+  },
+  {
+    "sku": "181164_270-S_4",
+    "filename": "181164_270-S_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_4_bg.png",
+    "processedAt": "2025-07-11T22:16:00.818Z",
+    "size": 598250
+  },
+  {
+    "sku": "181164_270-S_5",
+    "filename": "181164_270-S_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_5_bg.png",
+    "processedAt": "2025-07-11T22:16:03.413Z",
+    "size": 600200
+  },
+  {
+    "sku": "181164_270-S_6",
+    "filename": "181164_270-S_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_6_bg.png",
+    "processedAt": "2025-07-11T22:16:05.488Z",
+    "size": 1618120
+  },
+  {
+    "sku": "181164_270-S_7",
+    "filename": "181164_270-S_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-S_7_bg.png",
+    "processedAt": "2025-07-11T22:16:08.081Z",
+    "size": 772226
+  },
+  {
+    "sku": "181164_270-M",
+    "filename": "181164_270-M_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_bg.png",
+    "processedAt": "2025-07-11T22:16:09.903Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-M_1",
+    "filename": "181164_270-M_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_1_bg.png",
+    "processedAt": "2025-07-11T22:16:10.830Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-M_2",
+    "filename": "181164_270-M_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_2_bg.png",
+    "processedAt": "2025-07-11T22:16:11.764Z",
+    "size": 262211
+  },
+  {
+    "sku": "181164_270-M_3",
+    "filename": "181164_270-M_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_3_bg.png",
+    "processedAt": "2025-07-11T22:16:13.090Z",
+    "size": 468892
+  },
+  {
+    "sku": "181164_270-M_4",
+    "filename": "181164_270-M_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_4_bg.png",
+    "processedAt": "2025-07-11T22:16:14.187Z",
+    "size": 598250
+  },
+  {
+    "sku": "181164_270-M_5",
+    "filename": "181164_270-M_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_5_bg.png",
+    "processedAt": "2025-07-11T22:16:15.561Z",
+    "size": 600200
+  },
+  {
+    "sku": "181164_270-M_6",
+    "filename": "181164_270-M_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_6_bg.png",
+    "processedAt": "2025-07-11T22:16:17.258Z",
+    "size": 1618120
+  },
+  {
+    "sku": "181164_270-M_7",
+    "filename": "181164_270-M_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-M_7_bg.png",
+    "processedAt": "2025-07-11T22:16:18.727Z",
+    "size": 772226
+  },
+  {
+    "sku": "181164_270-L",
+    "filename": "181164_270-L_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_bg.png",
+    "processedAt": "2025-07-11T22:16:20.295Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-L_1",
+    "filename": "181164_270-L_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_1_bg.png",
+    "processedAt": "2025-07-11T22:16:21.209Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-L_2",
+    "filename": "181164_270-L_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_2_bg.png",
+    "processedAt": "2025-07-11T22:16:22.214Z",
+    "size": 262211
+  },
+  {
+    "sku": "181164_270-L_3",
+    "filename": "181164_270-L_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_3_bg.png",
+    "processedAt": "2025-07-11T22:16:23.390Z",
+    "size": 468892
+  },
+  {
+    "sku": "181164_270-L_4",
+    "filename": "181164_270-L_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_4_bg.png",
+    "processedAt": "2025-07-11T22:16:24.956Z",
+    "size": 598250
+  },
+  {
+    "sku": "181164_270-L_5",
+    "filename": "181164_270-L_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_5_bg.png",
+    "processedAt": "2025-07-11T22:16:26.587Z",
+    "size": 600200
+  },
+  {
+    "sku": "181164_270-L_6",
+    "filename": "181164_270-L_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_6_bg.png",
+    "processedAt": "2025-07-11T22:16:28.335Z",
+    "size": 1618120
+  },
+  {
+    "sku": "181164_270-L_7",
+    "filename": "181164_270-L_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-L_7_bg.png",
+    "processedAt": "2025-07-11T22:16:29.780Z",
+    "size": 772226
+  },
+  {
+    "sku": "181164_270-XL",
+    "filename": "181164_270-XL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_bg.png",
+    "processedAt": "2025-07-11T22:16:31.858Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-XL_1",
+    "filename": "181164_270-XL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_1_bg.png",
+    "processedAt": "2025-07-11T22:16:32.703Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-XL_2",
+    "filename": "181164_270-XL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_2_bg.png",
+    "processedAt": "2025-07-11T22:16:33.763Z",
+    "size": 262211
+  },
+  {
+    "sku": "181164_270-XL_3",
+    "filename": "181164_270-XL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_3_bg.png",
+    "processedAt": "2025-07-11T22:16:35.529Z",
+    "size": 468892
+  },
+  {
+    "sku": "181164_270-XL_4",
+    "filename": "181164_270-XL_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_4_bg.png",
+    "processedAt": "2025-07-11T22:16:36.518Z",
+    "size": 598250
+  },
+  {
+    "sku": "181164_270-XL_5",
+    "filename": "181164_270-XL_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_5_bg.png",
+    "processedAt": "2025-07-11T22:16:38.111Z",
+    "size": 600200
+  },
+  {
+    "sku": "181164_270-XL_6",
+    "filename": "181164_270-XL_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_6_bg.png",
+    "processedAt": "2025-07-11T22:16:39.692Z",
+    "size": 1618120
+  },
+  {
+    "sku": "181164_270-XL_7",
+    "filename": "181164_270-XL_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XL_7_bg.png",
+    "processedAt": "2025-07-11T22:16:41.198Z",
+    "size": 772226
+  },
+  {
+    "sku": "181164_270-XXL",
+    "filename": "181164_270-XXL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_bg.png",
+    "processedAt": "2025-07-11T22:16:42.732Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-XXL_1",
+    "filename": "181164_270-XXL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_1_bg.png",
+    "processedAt": "2025-07-11T22:16:43.579Z",
+    "size": 629416
+  },
+  {
+    "sku": "181164_270-XXL_2",
+    "filename": "181164_270-XXL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_2_bg.png",
+    "processedAt": "2025-07-11T22:16:44.952Z",
+    "size": 262211
+  },
+  {
+    "sku": "181164_270-XXL_3",
+    "filename": "181164_270-XXL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_3_bg.png",
+    "processedAt": "2025-07-11T22:16:46.117Z",
+    "size": 468892
+  },
+  {
+    "sku": "181164_270-XXL_4",
+    "filename": "181164_270-XXL_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_4_bg.png",
+    "processedAt": "2025-07-11T22:16:47.244Z",
+    "size": 598250
+  },
+  {
+    "sku": "181164_270-XXL_5",
+    "filename": "181164_270-XXL_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_5_bg.png",
+    "processedAt": "2025-07-11T22:16:48.447Z",
+    "size": 600200
+  },
+  {
+    "sku": "181164_270-XXL_6",
+    "filename": "181164_270-XXL_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_6_bg.png",
+    "processedAt": "2025-07-11T22:16:50.127Z",
+    "size": 1618120
+  },
+  {
+    "sku": "181164_270-XXL_7",
+    "filename": "181164_270-XXL_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181164_270-XXL_7_bg.png",
+    "processedAt": "2025-07-11T22:16:51.469Z",
+    "size": 772226
+  },
+  {
+    "sku": "181162_260-S",
+    "filename": "181162_260-S_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-S_bg.png",
+    "processedAt": "2025-07-11T22:16:53.921Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-S_1",
+    "filename": "181162_260-S_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-S_1_bg.png",
+    "processedAt": "2025-07-11T22:16:56.584Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-S_2",
+    "filename": "181162_260-S_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-S_2_bg.png",
+    "processedAt": "2025-07-11T22:16:58.100Z",
+    "size": 756076
+  },
+  {
+    "sku": "181162_260-S_3",
+    "filename": "181162_260-S_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-S_3_bg.png",
+    "processedAt": "2025-07-11T22:16:59.595Z",
+    "size": 478695
+  },
+  {
+    "sku": "181162_260-S_4",
+    "filename": "181162_260-S_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-S_4_bg.png",
+    "processedAt": "2025-07-11T22:17:01.074Z",
+    "size": 744836
+  },
+  {
+    "sku": "181162_260-S_5",
+    "filename": "181162_260-S_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-S_5_bg.png",
+    "processedAt": "2025-07-11T22:17:03.135Z",
+    "size": 1075825
+  },
+  {
+    "sku": "181162_260-S_6",
+    "filename": "181162_260-S_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-S_6_bg.png",
+    "processedAt": "2025-07-11T22:17:05.591Z",
+    "size": 1663853
+  },
+  {
+    "sku": "181162_260-M",
+    "filename": "181162_260-M_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-M_bg.png",
+    "processedAt": "2025-07-11T22:17:07.041Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-M_1",
+    "filename": "181162_260-M_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-M_1_bg.png",
+    "processedAt": "2025-07-11T22:17:07.861Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-M_2",
+    "filename": "181162_260-M_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-M_2_bg.png",
+    "processedAt": "2025-07-11T22:17:09.078Z",
+    "size": 756076
+  },
+  {
+    "sku": "181162_260-M_3",
+    "filename": "181162_260-M_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-M_3_bg.png",
+    "processedAt": "2025-07-11T22:17:10.152Z",
+    "size": 478695
+  },
+  {
+    "sku": "181162_260-M_4",
+    "filename": "181162_260-M_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-M_4_bg.png",
+    "processedAt": "2025-07-11T22:17:11.208Z",
+    "size": 744836
+  },
+  {
+    "sku": "181162_260-M_5",
+    "filename": "181162_260-M_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-M_5_bg.png",
+    "processedAt": "2025-07-11T22:17:12.670Z",
+    "size": 1075825
+  },
+  {
+    "sku": "181162_260-M_6",
+    "filename": "181162_260-M_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-M_6_bg.png",
+    "processedAt": "2025-07-11T22:17:14.244Z",
+    "size": 1663853
+  },
+  {
+    "sku": "181162_260-L",
+    "filename": "181162_260-L_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-L_bg.png",
+    "processedAt": "2025-07-11T22:17:15.658Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-L_1",
+    "filename": "181162_260-L_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-L_1_bg.png",
+    "processedAt": "2025-07-11T22:17:16.308Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-L_2",
+    "filename": "181162_260-L_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-L_2_bg.png",
+    "processedAt": "2025-07-11T22:17:17.364Z",
+    "size": 756076
+  },
+  {
+    "sku": "181162_260-L_3",
+    "filename": "181162_260-L_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-L_3_bg.png",
+    "processedAt": "2025-07-11T22:17:18.864Z",
+    "size": 478695
+  },
+  {
+    "sku": "181162_260-L_4",
+    "filename": "181162_260-L_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-L_4_bg.png",
+    "processedAt": "2025-07-11T22:17:19.896Z",
+    "size": 744836
+  },
+  {
+    "sku": "181162_260-L_5",
+    "filename": "181162_260-L_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-L_5_bg.png",
+    "processedAt": "2025-07-11T22:17:21.278Z",
+    "size": 1075825
+  },
+  {
+    "sku": "181162_260-L_6",
+    "filename": "181162_260-L_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-L_6_bg.png",
+    "processedAt": "2025-07-11T22:17:23.391Z",
+    "size": 1663853
+  },
+  {
+    "sku": "181162_260-XL",
+    "filename": "181162_260-XL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XL_bg.png",
+    "processedAt": "2025-07-11T22:17:24.841Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-XL_1",
+    "filename": "181162_260-XL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XL_1_bg.png",
+    "processedAt": "2025-07-11T22:17:25.617Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-XL_2",
+    "filename": "181162_260-XL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XL_2_bg.png",
+    "processedAt": "2025-07-11T22:17:26.642Z",
+    "size": 756076
+  },
+  {
+    "sku": "181162_260-XL_3",
+    "filename": "181162_260-XL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XL_3_bg.png",
+    "processedAt": "2025-07-11T22:17:27.620Z",
+    "size": 478695
+  },
+  {
+    "sku": "181162_260-XL_4",
+    "filename": "181162_260-XL_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XL_4_bg.png",
+    "processedAt": "2025-07-11T22:17:28.647Z",
+    "size": 744836
+  },
+  {
+    "sku": "181162_260-XL_5",
+    "filename": "181162_260-XL_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XL_5_bg.png",
+    "processedAt": "2025-07-11T22:17:29.932Z",
+    "size": 1075825
+  },
+  {
+    "sku": "181162_260-XL_6",
+    "filename": "181162_260-XL_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XL_6_bg.png",
+    "processedAt": "2025-07-11T22:17:31.642Z",
+    "size": 1663853
+  },
+  {
+    "sku": "181162_260-XXL",
+    "filename": "181162_260-XXL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XXL_bg.png",
+    "processedAt": "2025-07-11T22:17:33.549Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-XXL_1",
+    "filename": "181162_260-XXL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XXL_1_bg.png",
+    "processedAt": "2025-07-11T22:17:34.353Z",
+    "size": 486552
+  },
+  {
+    "sku": "181162_260-XXL_2",
+    "filename": "181162_260-XXL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XXL_2_bg.png",
+    "processedAt": "2025-07-11T22:17:35.571Z",
+    "size": 756076
+  },
+  {
+    "sku": "181162_260-XXL_3",
+    "filename": "181162_260-XXL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XXL_3_bg.png",
+    "processedAt": "2025-07-11T22:17:36.438Z",
+    "size": 478695
+  },
+  {
+    "sku": "181162_260-XXL_4",
+    "filename": "181162_260-XXL_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XXL_4_bg.png",
+    "processedAt": "2025-07-11T22:17:37.503Z",
+    "size": 744836
+  },
+  {
+    "sku": "181162_260-XXL_5",
+    "filename": "181162_260-XXL_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XXL_5_bg.png",
+    "processedAt": "2025-07-11T22:17:38.871Z",
+    "size": 1075825
+  },
+  {
+    "sku": "181162_260-XXL_6",
+    "filename": "181162_260-XXL_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181162_260-XXL_6_bg.png",
+    "processedAt": "2025-07-11T22:17:40.528Z",
+    "size": 1663853
+  },
+  {
+    "sku": "181166_201-S",
+    "filename": "181166_201-S_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-S_bg.png",
+    "processedAt": "2025-07-11T22:17:41.855Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-S_1",
+    "filename": "181166_201-S_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-S_1_bg.png",
+    "processedAt": "2025-07-11T22:17:42.667Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-S_2",
+    "filename": "181166_201-S_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-S_2_bg.png",
+    "processedAt": "2025-07-11T22:17:44.128Z",
+    "size": 685643
+  },
+  {
+    "sku": "181166_201-S_3",
+    "filename": "181166_201-S_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-S_3_bg.png",
+    "processedAt": "2025-07-11T22:17:45.806Z",
+    "size": 457586
+  },
+  {
+    "sku": "181166_201-S_4",
+    "filename": "181166_201-S_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-S_4_bg.png",
+    "processedAt": "2025-07-11T22:17:47.667Z",
+    "size": 679738
+  },
+  {
+    "sku": "181166_201-S_5",
+    "filename": "181166_201-S_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-S_5_bg.png",
+    "processedAt": "2025-07-11T22:17:49.915Z",
+    "size": 1059700
+  },
+  {
+    "sku": "181166_201-S_6",
+    "filename": "181166_201-S_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-S_6_bg.png",
+    "processedAt": "2025-07-11T22:17:52.353Z",
+    "size": 1630252
+  },
+  {
+    "sku": "181166_201-M",
+    "filename": "181166_201-M_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-M_bg.png",
+    "processedAt": "2025-07-11T22:17:54.757Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-M_1",
+    "filename": "181166_201-M_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-M_1_bg.png",
+    "processedAt": "2025-07-11T22:17:55.912Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-M_2",
+    "filename": "181166_201-M_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-M_2_bg.png",
+    "processedAt": "2025-07-11T22:17:57.479Z",
+    "size": 685643
+  },
+  {
+    "sku": "181166_201-M_3",
+    "filename": "181166_201-M_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-M_3_bg.png",
+    "processedAt": "2025-07-11T22:17:58.529Z",
+    "size": 457586
+  },
+  {
+    "sku": "181166_201-M_4",
+    "filename": "181166_201-M_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-M_4_bg.png",
+    "processedAt": "2025-07-11T22:17:59.748Z",
+    "size": 679738
+  },
+  {
+    "sku": "181166_201-M_5",
+    "filename": "181166_201-M_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-M_5_bg.png",
+    "processedAt": "2025-07-11T22:18:01.064Z",
+    "size": 1059700
+  },
+  {
+    "sku": "181166_201-M_6",
+    "filename": "181166_201-M_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-M_6_bg.png",
+    "processedAt": "2025-07-11T22:18:02.769Z",
+    "size": 1630252
+  },
+  {
+    "sku": "181166_201-L",
+    "filename": "181166_201-L_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-L_bg.png",
+    "processedAt": "2025-07-11T22:18:04.780Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-L_1",
+    "filename": "181166_201-L_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-L_1_bg.png",
+    "processedAt": "2025-07-11T22:18:05.454Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-L_2",
+    "filename": "181166_201-L_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-L_2_bg.png",
+    "processedAt": "2025-07-11T22:18:06.477Z",
+    "size": 685643
+  },
+  {
+    "sku": "181166_201-L_3",
+    "filename": "181166_201-L_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-L_3_bg.png",
+    "processedAt": "2025-07-11T22:18:08.356Z",
+    "size": 457586
+  },
+  {
+    "sku": "181166_201-L_4",
+    "filename": "181166_201-L_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-L_4_bg.png",
+    "processedAt": "2025-07-11T22:18:10.058Z",
+    "size": 679738
+  },
+  {
+    "sku": "181166_201-L_5",
+    "filename": "181166_201-L_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-L_5_bg.png",
+    "processedAt": "2025-07-11T22:18:11.222Z",
+    "size": 1059700
+  },
+  {
+    "sku": "181166_201-L_6",
+    "filename": "181166_201-L_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-L_6_bg.png",
+    "processedAt": "2025-07-11T22:18:12.853Z",
+    "size": 1630252
+  },
+  {
+    "sku": "181166_201-XL",
+    "filename": "181166_201-XL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-XL_bg.png",
+    "processedAt": "2025-07-11T22:18:14.204Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-XL_1",
+    "filename": "181166_201-XL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-XL_1_bg.png",
+    "processedAt": "2025-07-11T22:18:15.024Z",
+    "size": 465435
+  },
+  {
+    "sku": "181166_201-XL_2",
+    "filename": "181166_201-XL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-XL_2_bg.png",
+    "processedAt": "2025-07-11T22:18:16.291Z",
+    "size": 685643
+  },
+  {
+    "sku": "181166_201-XL_3",
+    "filename": "181166_201-XL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-XL_3_bg.png",
+    "processedAt": "2025-07-11T22:18:17.261Z",
+    "size": 457586
+  },
+  {
+    "sku": "181166_201-XL_4",
+    "filename": "181166_201-XL_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-XL_4_bg.png",
+    "processedAt": "2025-07-11T22:18:18.330Z",
+    "size": 679738
+  },
+  {
+    "sku": "181166_201-XL_5",
+    "filename": "181166_201-XL_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-XL_5_bg.png",
+    "processedAt": "2025-07-11T22:18:19.844Z",
+    "size": 1059700
+  },
+  {
+    "sku": "181166_201-XL_6",
+    "filename": "181166_201-XL_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181166_201-XL_6_bg.png",
+    "processedAt": "2025-07-11T22:18:21.591Z",
+    "size": 1630252
+  },
+  {
+    "sku": "181167_021-S",
+    "filename": "181167_021-S_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-S_bg.png",
+    "processedAt": "2025-07-11T22:18:23.850Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-S_1",
+    "filename": "181167_021-S_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-S_1_bg.png",
+    "processedAt": "2025-07-11T22:18:24.575Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-S_2",
+    "filename": "181167_021-S_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-S_2_bg.png",
+    "processedAt": "2025-07-11T22:18:25.895Z",
+    "size": 283816
+  },
+  {
+    "sku": "181167_021-S_3",
+    "filename": "181167_021-S_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-S_3_bg.png",
+    "processedAt": "2025-07-11T22:18:27.582Z",
+    "size": 975948
+  },
+  {
+    "sku": "181167_021-M",
+    "filename": "181167_021-M_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-M_bg.png",
+    "processedAt": "2025-07-11T22:18:28.934Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-M_1",
+    "filename": "181167_021-M_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-M_1_bg.png",
+    "processedAt": "2025-07-11T22:18:29.592Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-M_2",
+    "filename": "181167_021-M_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-M_2_bg.png",
+    "processedAt": "2025-07-11T22:18:30.403Z",
+    "size": 283816
+  },
+  {
+    "sku": "181167_021-M_3",
+    "filename": "181167_021-M_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-M_3_bg.png",
+    "processedAt": "2025-07-11T22:18:31.569Z",
+    "size": 975948
+  },
+  {
+    "sku": "181167_021-L",
+    "filename": "181167_021-L_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-L_bg.png",
+    "processedAt": "2025-07-11T22:18:33.361Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-L_1",
+    "filename": "181167_021-L_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-L_1_bg.png",
+    "processedAt": "2025-07-11T22:18:34.013Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-L_2",
+    "filename": "181167_021-L_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-L_2_bg.png",
+    "processedAt": "2025-07-11T22:18:34.823Z",
+    "size": 283816
+  },
+  {
+    "sku": "181167_021-L_3",
+    "filename": "181167_021-L_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-L_3_bg.png",
+    "processedAt": "2025-07-11T22:18:35.998Z",
+    "size": 975948
+  },
+  {
+    "sku": "181167_021-XL",
+    "filename": "181167_021-XL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XL_bg.png",
+    "processedAt": "2025-07-11T22:18:37.792Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-XL_1",
+    "filename": "181167_021-XL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XL_1_bg.png",
+    "processedAt": "2025-07-11T22:18:38.386Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-XL_2",
+    "filename": "181167_021-XL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XL_2_bg.png",
+    "processedAt": "2025-07-11T22:18:39.204Z",
+    "size": 283816
+  },
+  {
+    "sku": "181167_021-XL_3",
+    "filename": "181167_021-XL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XL_3_bg.png",
+    "processedAt": "2025-07-11T22:18:40.416Z",
+    "size": 975948
+  },
+  {
+    "sku": "181167_021-XXL",
+    "filename": "181167_021-XXL_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XXL_bg.png",
+    "processedAt": "2025-07-11T22:18:42.047Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-XXL_1",
+    "filename": "181167_021-XXL_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XXL_1_bg.png",
+    "processedAt": "2025-07-11T22:18:42.719Z",
+    "size": 310249
+  },
+  {
+    "sku": "181167_021-XXL_2",
+    "filename": "181167_021-XXL_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XXL_2_bg.png",
+    "processedAt": "2025-07-11T22:18:43.620Z",
+    "size": 283816
+  },
+  {
+    "sku": "181167_021-XXL_3",
+    "filename": "181167_021-XXL_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/181167_021-XXL_3_bg.png",
+    "processedAt": "2025-07-11T22:18:44.677Z",
+    "size": 975948
+  },
+  {
+    "sku": "180867_410-29-30",
+    "filename": "180867_410-29-30_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_bg.png",
+    "processedAt": "2025-07-11T22:18:46.445Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-29-30_1",
+    "filename": "180867_410-29-30_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_1_bg.png",
+    "processedAt": "2025-07-11T22:18:47.144Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-29-30_2",
+    "filename": "180867_410-29-30_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_2_bg.png",
+    "processedAt": "2025-07-11T22:18:48.387Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-29-30_3",
+    "filename": "180867_410-29-30_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_3_bg.png",
+    "processedAt": "2025-07-11T22:18:49.509Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-29-30_4",
+    "filename": "180867_410-29-30_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_4_bg.png",
+    "processedAt": "2025-07-11T22:18:50.595Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-29-30_5",
+    "filename": "180867_410-29-30_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_5_bg.png",
+    "processedAt": "2025-07-11T22:18:51.816Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-29-30_6",
+    "filename": "180867_410-29-30_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_6_bg.png",
+    "processedAt": "2025-07-11T22:18:54.132Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-29-30_7",
+    "filename": "180867_410-29-30_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-29-30_7_bg.png",
+    "processedAt": "2025-07-11T22:18:56.335Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-30-30",
+    "filename": "180867_410-30-30_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_bg.png",
+    "processedAt": "2025-07-11T22:18:58.218Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-30-30_1",
+    "filename": "180867_410-30-30_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_1_bg.png",
+    "processedAt": "2025-07-11T22:18:58.904Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-30-30_2",
+    "filename": "180867_410-30-30_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_2_bg.png",
+    "processedAt": "2025-07-11T22:19:00.007Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-30-30_3",
+    "filename": "180867_410-30-30_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_3_bg.png",
+    "processedAt": "2025-07-11T22:19:01.162Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-30-30_4",
+    "filename": "180867_410-30-30_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_4_bg.png",
+    "processedAt": "2025-07-11T22:19:02.311Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-30-30_5",
+    "filename": "180867_410-30-30_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_5_bg.png",
+    "processedAt": "2025-07-11T22:19:04.038Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-30-30_6",
+    "filename": "180867_410-30-30_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_6_bg.png",
+    "processedAt": "2025-07-11T22:19:06.195Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-30-30_7",
+    "filename": "180867_410-30-30_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-30_7_bg.png",
+    "processedAt": "2025-07-11T22:19:08.205Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-31-30",
+    "filename": "180867_410-31-30_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_bg.png",
+    "processedAt": "2025-07-11T22:19:10.081Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-31-30_1",
+    "filename": "180867_410-31-30_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_1_bg.png",
+    "processedAt": "2025-07-11T22:19:10.775Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-31-30_2",
+    "filename": "180867_410-31-30_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_2_bg.png",
+    "processedAt": "2025-07-11T22:19:11.876Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-31-30_3",
+    "filename": "180867_410-31-30_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_3_bg.png",
+    "processedAt": "2025-07-11T22:19:13.008Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-31-30_4",
+    "filename": "180867_410-31-30_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_4_bg.png",
+    "processedAt": "2025-07-11T22:19:14.111Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-31-30_5",
+    "filename": "180867_410-31-30_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_5_bg.png",
+    "processedAt": "2025-07-11T22:19:15.292Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-31-30_6",
+    "filename": "180867_410-31-30_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_6_bg.png",
+    "processedAt": "2025-07-11T22:19:17.535Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-31-30_7",
+    "filename": "180867_410-31-30_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-30_7_bg.png",
+    "processedAt": "2025-07-11T22:19:19.614Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-30-32",
+    "filename": "180867_410-30-32_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_bg.png",
+    "processedAt": "2025-07-11T22:19:21.755Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-30-32_1",
+    "filename": "180867_410-30-32_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_1_bg.png",
+    "processedAt": "2025-07-11T22:19:22.502Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-30-32_2",
+    "filename": "180867_410-30-32_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_2_bg.png",
+    "processedAt": "2025-07-11T22:19:23.573Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-30-32_3",
+    "filename": "180867_410-30-32_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_3_bg.png",
+    "processedAt": "2025-07-11T22:19:25.415Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-30-32_4",
+    "filename": "180867_410-30-32_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_4_bg.png",
+    "processedAt": "2025-07-11T22:19:27.121Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-30-32_5",
+    "filename": "180867_410-30-32_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_5_bg.png",
+    "processedAt": "2025-07-11T22:19:28.904Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-30-32_6",
+    "filename": "180867_410-30-32_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_6_bg.png",
+    "processedAt": "2025-07-11T22:19:31.947Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-30-32_7",
+    "filename": "180867_410-30-32_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-30-32_7_bg.png",
+    "processedAt": "2025-07-11T22:19:34.415Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-31-32",
+    "filename": "180867_410-31-32_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_bg.png",
+    "processedAt": "2025-07-11T22:19:35.821Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-31-32_1",
+    "filename": "180867_410-31-32_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_1_bg.png",
+    "processedAt": "2025-07-11T22:19:36.607Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-31-32_2",
+    "filename": "180867_410-31-32_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_2_bg.png",
+    "processedAt": "2025-07-11T22:19:38.000Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-31-32_3",
+    "filename": "180867_410-31-32_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_3_bg.png",
+    "processedAt": "2025-07-11T22:19:39.286Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-31-32_4",
+    "filename": "180867_410-31-32_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_4_bg.png",
+    "processedAt": "2025-07-11T22:19:40.647Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-31-32_5",
+    "filename": "180867_410-31-32_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_5_bg.png",
+    "processedAt": "2025-07-11T22:19:42.105Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-31-32_6",
+    "filename": "180867_410-31-32_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_6_bg.png",
+    "processedAt": "2025-07-11T22:19:44.738Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-31-32_7",
+    "filename": "180867_410-31-32_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-31-32_7_bg.png",
+    "processedAt": "2025-07-11T22:19:46.944Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-32-32",
+    "filename": "180867_410-32-32_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_bg.png",
+    "processedAt": "2025-07-11T22:19:48.425Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-32-32_1",
+    "filename": "180867_410-32-32_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_1_bg.png",
+    "processedAt": "2025-07-11T22:19:49.223Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-32-32_2",
+    "filename": "180867_410-32-32_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_2_bg.png",
+    "processedAt": "2025-07-11T22:19:50.381Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-32-32_3",
+    "filename": "180867_410-32-32_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_3_bg.png",
+    "processedAt": "2025-07-11T22:19:51.525Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-32-32_4",
+    "filename": "180867_410-32-32_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_4_bg.png",
+    "processedAt": "2025-07-11T22:19:52.869Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-32-32_5",
+    "filename": "180867_410-32-32_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_5_bg.png",
+    "processedAt": "2025-07-11T22:19:54.129Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-32-32_6",
+    "filename": "180867_410-32-32_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_6_bg.png",
+    "processedAt": "2025-07-11T22:19:56.597Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-32-32_7",
+    "filename": "180867_410-32-32_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-32_7_bg.png",
+    "processedAt": "2025-07-11T22:19:58.828Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-33-32",
+    "filename": "180867_410-33-32_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_bg.png",
+    "processedAt": "2025-07-11T22:20:00.737Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-33-32_1",
+    "filename": "180867_410-33-32_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_1_bg.png",
+    "processedAt": "2025-07-11T22:20:01.413Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-33-32_2",
+    "filename": "180867_410-33-32_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_2_bg.png",
+    "processedAt": "2025-07-11T22:20:02.660Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-33-32_3",
+    "filename": "180867_410-33-32_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_3_bg.png",
+    "processedAt": "2025-07-11T22:20:03.795Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-33-32_4",
+    "filename": "180867_410-33-32_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_4_bg.png",
+    "processedAt": "2025-07-11T22:20:05.035Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-33-32_5",
+    "filename": "180867_410-33-32_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_5_bg.png",
+    "processedAt": "2025-07-11T22:20:06.258Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-33-32_6",
+    "filename": "180867_410-33-32_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_6_bg.png",
+    "processedAt": "2025-07-11T22:20:08.486Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-33-32_7",
+    "filename": "180867_410-33-32_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-32_7_bg.png",
+    "processedAt": "2025-07-11T22:20:10.653Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-34-32",
+    "filename": "180867_410-34-32_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_bg.png",
+    "processedAt": "2025-07-11T22:20:12.174Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-34-32_1",
+    "filename": "180867_410-34-32_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_1_bg.png",
+    "processedAt": "2025-07-11T22:20:12.887Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-34-32_2",
+    "filename": "180867_410-34-32_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_2_bg.png",
+    "processedAt": "2025-07-11T22:20:13.983Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-34-32_3",
+    "filename": "180867_410-34-32_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_3_bg.png",
+    "processedAt": "2025-07-11T22:20:15.165Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-34-32_4",
+    "filename": "180867_410-34-32_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_4_bg.png",
+    "processedAt": "2025-07-11T22:20:16.251Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-34-32_5",
+    "filename": "180867_410-34-32_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_5_bg.png",
+    "processedAt": "2025-07-11T22:20:17.524Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-34-32_6",
+    "filename": "180867_410-34-32_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_6_bg.png",
+    "processedAt": "2025-07-11T22:20:19.689Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-34-32_7",
+    "filename": "180867_410-34-32_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-32_7_bg.png",
+    "processedAt": "2025-07-11T22:20:21.822Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-36-32",
+    "filename": "180867_410-36-32_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_bg.png",
+    "processedAt": "2025-07-11T22:20:23.677Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-36-32_1",
+    "filename": "180867_410-36-32_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_1_bg.png",
+    "processedAt": "2025-07-11T22:20:24.460Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-36-32_2",
+    "filename": "180867_410-36-32_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_2_bg.png",
+    "processedAt": "2025-07-11T22:20:25.547Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-36-32_3",
+    "filename": "180867_410-36-32_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_3_bg.png",
+    "processedAt": "2025-07-11T22:20:26.708Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-36-32_4",
+    "filename": "180867_410-36-32_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_4_bg.png",
+    "processedAt": "2025-07-11T22:20:27.970Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-36-32_5",
+    "filename": "180867_410-36-32_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_5_bg.png",
+    "processedAt": "2025-07-11T22:20:29.213Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-36-32_6",
+    "filename": "180867_410-36-32_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_6_bg.png",
+    "processedAt": "2025-07-11T22:20:31.498Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-36-32_7",
+    "filename": "180867_410-36-32_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-36-32_7_bg.png",
+    "processedAt": "2025-07-11T22:20:33.908Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-32-34",
+    "filename": "180867_410-32-34_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_bg.png",
+    "processedAt": "2025-07-11T22:20:36.286Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-32-34_1",
+    "filename": "180867_410-32-34_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_1_bg.png",
+    "processedAt": "2025-07-11T22:20:36.967Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-32-34_2",
+    "filename": "180867_410-32-34_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_2_bg.png",
+    "processedAt": "2025-07-11T22:20:38.078Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-32-34_3",
+    "filename": "180867_410-32-34_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_3_bg.png",
+    "processedAt": "2025-07-11T22:20:39.195Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-32-34_4",
+    "filename": "180867_410-32-34_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_4_bg.png",
+    "processedAt": "2025-07-11T22:20:40.447Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-32-34_5",
+    "filename": "180867_410-32-34_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_5_bg.png",
+    "processedAt": "2025-07-11T22:20:41.665Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-32-34_6",
+    "filename": "180867_410-32-34_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_6_bg.png",
+    "processedAt": "2025-07-11T22:20:44.230Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-32-34_7",
+    "filename": "180867_410-32-34_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-32-34_7_bg.png",
+    "processedAt": "2025-07-11T22:20:46.317Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-33-34",
+    "filename": "180867_410-33-34_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_bg.png",
+    "processedAt": "2025-07-11T22:20:48.189Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-33-34_1",
+    "filename": "180867_410-33-34_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_1_bg.png",
+    "processedAt": "2025-07-11T22:20:48.964Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-33-34_2",
+    "filename": "180867_410-33-34_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_2_bg.png",
+    "processedAt": "2025-07-11T22:20:50.058Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-33-34_3",
+    "filename": "180867_410-33-34_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_3_bg.png",
+    "processedAt": "2025-07-11T22:20:51.193Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-33-34_4",
+    "filename": "180867_410-33-34_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_4_bg.png",
+    "processedAt": "2025-07-11T22:20:52.299Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-33-34_5",
+    "filename": "180867_410-33-34_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_5_bg.png",
+    "processedAt": "2025-07-11T22:20:54.870Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-33-34_6",
+    "filename": "180867_410-33-34_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_6_bg.png",
+    "processedAt": "2025-07-11T22:20:57.156Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-33-34_7",
+    "filename": "180867_410-33-34_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-33-34_7_bg.png",
+    "processedAt": "2025-07-11T22:20:59.449Z",
+    "size": 1470589
+  },
+  {
+    "sku": "180867_410-34-34",
+    "filename": "180867_410-34-34_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_bg.png",
+    "processedAt": "2025-07-11T22:21:00.917Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-34-34_1",
+    "filename": "180867_410-34-34_1_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_1_bg.png",
+    "processedAt": "2025-07-11T22:21:01.713Z",
+    "size": 238172
+  },
+  {
+    "sku": "180867_410-34-34_2",
+    "filename": "180867_410-34-34_2_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_2_bg.png",
+    "processedAt": "2025-07-11T22:21:02.938Z",
+    "size": 685631
+  },
+  {
+    "sku": "180867_410-34-34_3",
+    "filename": "180867_410-34-34_3_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_3_bg.png",
+    "processedAt": "2025-07-11T22:21:04.150Z",
+    "size": 448402
+  },
+  {
+    "sku": "180867_410-34-34_4",
+    "filename": "180867_410-34-34_4_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_4_bg.png",
+    "processedAt": "2025-07-11T22:21:05.408Z",
+    "size": 685561
+  },
+  {
+    "sku": "180867_410-34-34_5",
+    "filename": "180867_410-34-34_5_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_5_bg.png",
+    "processedAt": "2025-07-11T22:21:06.677Z",
+    "size": 491904
+  },
+  {
+    "sku": "180867_410-34-34_6",
+    "filename": "180867_410-34-34_6_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_6_bg.png",
+    "processedAt": "2025-07-11T22:21:08.902Z",
+    "size": 1230655
+  },
+  {
+    "sku": "180867_410-34-34_7",
+    "filename": "180867_410-34-34_7_bg.png",
+    "url": "https://scotch-product-images.onrender.com/images/products/180867_410-34-34_7_bg.png",
+    "processedAt": "2025-07-11T22:21:11.447Z",
+    "size": 1470589
   }
 ]
