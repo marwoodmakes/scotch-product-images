@@ -1,151 +1,151 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scotch & Soda Product Images</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background: #f5f5f5;
-        }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        .info {
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            margin-bottom: 20px;
-        }
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-top: 20px;
-        }
-        .stat {
-            background: #f8f9fa;
-            padding: 15px;
-            border-radius: 6px;
-            text-align: center;
-        }
-        .stat-value {
-            font-size: 2em;
-            font-weight: bold;
-            color: #00BFA5;
-        }
-        .stat-label {
-            color: #666;
-            font-size: 0.9em;
-        }
-        .recent-images {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            gap: 15px;
-            margin-top: 30px;
-        }
-        .image-preview {
-            background: white;
-            padding: 10px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            text-align: center;
-        }
-        .image-preview img {
-            max-width: 100%;
-            height: 120px;
-            object-fit: contain;
-        }
-        .image-preview .sku {
-            font-size: 0.8em;
-            color: #666;
-            margin-top: 5px;
-            word-break: break-all;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 2px 6px;
-            border-radius: 3px;
-            font-family: 'Monaco', 'Menlo', monospace;
-        }
-    </style>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Scotch & Soda Product Images</title>
+   <style>
+       body {
+           font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+           max-width: 1200px;
+           margin: 0 auto;
+           padding: 20px;
+           background: #f5f5f5;
+       }
+       h1 {
+           color: #333;
+           text-align: center;
+       }
+       .info {
+           background: white;
+           padding: 20px;
+           border-radius: 8px;
+           box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+           margin-bottom: 20px;
+       }
+       .stats {
+           display: grid;
+           grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+           gap: 15px;
+           margin-top: 20px;
+       }
+       .stat {
+           background: #f8f9fa;
+           padding: 15px;
+           border-radius: 6px;
+           text-align: center;
+       }
+       .stat-value {
+           font-size: 2em;
+           font-weight: bold;
+           color: #00BFA5;
+       }
+       .stat-label {
+           color: #666;
+           font-size: 0.9em;
+       }
+       .recent-images {
+           display: grid;
+           grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+           gap: 15px;
+           margin-top: 30px;
+       }
+       .image-preview {
+           background: white;
+           padding: 10px;
+           border-radius: 8px;
+           box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+           text-align: center;
+       }
+       .image-preview img {
+           max-width: 100%;
+           height: 120px;
+           object-fit: contain;
+       }
+       .image-preview .sku {
+           font-size: 0.8em;
+           color: #666;
+           margin-top: 5px;
+           word-break: break-all;
+       }
+       code {
+           background: #f4f4f4;
+           padding: 2px 6px;
+           border-radius: 3px;
+           font-family: 'Monaco', 'Menlo', monospace;
+       }
+   </style>
 </head>
 <body>
-    <h1>🖼️ Scotch & Soda Product Images</h1>
-    
-    <div class="info">
-        <h2>Static Image CDN</h2>
-        <p>This is a static image host for processed product images with removed backgrounds.</p>
-        
-        <h3>📍 Image URL Pattern:</h3>
-        <p><code>https://scotch-product-images.onrender.com/images/products/{SKU}_bg.png</code></p>
-        
-        <h3>🔧 Integration:</h3>
-        <p>These URLs can be used directly in:</p>
-        <ul>
-            <li>Google Sheets</li>
-            <li>Shopify Product Images</li>
-            <li>Any E-commerce Platform</li>
-        </ul>
-        
-        <div class="stats" id="stats">
-            <div class="stat">
-                <div class="stat-value" id="imageCount">-</div>
-                <div class="stat-label">Total Images</div>
-            </div>
-            <div class="stat">
-                <div class="stat-value" id="totalSize">-</div>
-                <div class="stat-label">Total Size</div>
-            </div>
-            <div class="stat">
-                <div class="stat-value" id="lastUpdate">-</div>
-                <div class="stat-label">Last Updated</div>
-            </div>
-        </div>
-    </div>
-    
-    <h2>Recent Images</h2>
-    <div class="recent-images" id="recentImages"></div>
-    
-    <script>
-        // Load and display manifest stats
-        fetch('/manifest.json')
-            .then(res => res.json())
-            .then(manifest => {
-                document.getElementById('imageCount').textContent = manifest.length;
-                
-                const totalBytes = manifest.reduce((sum, img) => sum + img.size, 0);
-                const totalMB = (totalBytes / (1024 * 1024)).toFixed(2);
-                document.getElementById('totalSize').textContent = totalMB + ' MB';
-                
-                if (manifest.length > 0) {
-                    const lastDate = new Date(manifest[manifest.length - 1].processedAt);
-                    document.getElementById('lastUpdate').textContent = lastDate.toLocaleDateString();
-                    
-                    // Show last 12 images
-                    const recentContainer = document.getElementById('recentImages');
-                    const recentImages = manifest.slice(-12).reverse();
-                    
-                    recentImages.forEach(img => {
-                        const div = document.createElement('div');
-                        div.className = 'image-preview';
-                        div.innerHTML = `
-                            <img src="${img.url}" alt="${img.sku}" loading="lazy">
-                            <div class="sku">${img.sku}</div>
-                        `;
-                        recentContainer.appendChild(div);
-                    });
-                }
-            })
-            .catch(err => {
-                console.log('No manifest yet');
-            });
-    </script>
+   <h1>🖼️ Scotch & Soda Product Images</h1>
+  
+   <div class="info">
+       <h2>Static Image CDN</h2>
+       <p>This is a static image host for processed product images with removed backgrounds.</p>
+      
+       <h3>📍 Image URL Pattern:</h3>
+       <p><code>https://scotch-product-images.onrender.com/images/products/{SKU}_bg.png</code></p>
+      
+       <h3>🔧 Integration:</h3>
+       <p>These URLs can be used directly in:</p>
+       <ul>
+           <li>Google Sheets</li>
+           <li>Shopify Product Images</li>
+           <li>Any E-commerce Platform</li>
+       </ul>
+      
+       <div class="stats" id="stats">
+           <div class="stat">
+               <div class="stat-value" id="imageCount">-</div>
+               <div class="stat-label">Total Images</div>
+           </div>
+           <div class="stat">
+               <div class="stat-value" id="totalSize">-</div>
+               <div class="stat-label">Total Size</div>
+           </div>
+           <div class="stat">
+               <div class="stat-value" id="lastUpdate">-</div>
+               <div class="stat-label">Last Updated</div>
+           </div>
+       </div>
+   </div>
+  
+   <h2>Recent Images</h2>
+   <div class="recent-images" id="recentImages"></div>
+  
+   <script>
+       // Load and display manifest stats
+       fetch('/manifest.json')
+           .then(res => res.json())
+           .then(manifest => {
+               document.getElementById('imageCount').textContent = manifest.length;
+              
+               const totalBytes = manifest.reduce((sum, img) => sum + img.size, 0);
+               const totalMB = (totalBytes / (1024 * 1024)).toFixed(2);
+               document.getElementById('totalSize').textContent = totalMB + ' MB';
+              
+               if (manifest.length > 0) {
+                   const lastDate = new Date(manifest[manifest.length - 1].processedAt);
+                   document.getElementById('lastUpdate').textContent = lastDate.toLocaleDateString();
+                  
+                   // Show last 12 images
+                   const recentContainer = document.getElementById('recentImages');
+                   const recentImages = manifest.slice(-12).reverse();
+                  
+                   recentImages.forEach(img => {
+                       const div = document.createElement('div');
+                       div.className = 'image-preview';
+                       div.innerHTML = `
+                           <img src="${img.url}" alt="${img.sku}" loading="lazy">
+                           <div class="sku">${img.sku}</div>
+                       `;
+                       recentContainer.appendChild(div);
+                   });
+               }
+           })
+           .catch(err => {
+               console.log('No manifest yet');
+           });
+   </script>
 </body>
 </html>
