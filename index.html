@@ -9,6 +9,15 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 2000;
+            display: none;
         }
 
         body {
@@ -480,8 +489,19 @@
             font-weight: 500;
         }
 
-        .copy-feedback.show {
-            opacity: 1;
+        .info-note {
+            background: #fff3cd;
+            border: 1px solid #ffeeba;
+            color: #856404;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+
+        .info-note strong {
+            font-weight: 600;
         }
 
         /* Confirmation dialog */
@@ -515,20 +535,95 @@
             justify-content: flex-end;
         }
 
-        .overlay {
+        /* Login styles */
+        .login-container {
             position: fixed;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0, 0, 0, 0.5);
-            z-index: 2000;
-            display: none;
+            background: linear-gradient(135deg, rgba(0, 191, 165, 0.1) 0%, rgba(0, 191, 165, 0.05) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 3000;
+        }
+
+        .login-card {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 400px;
+            text-align: center;
+            border: 1px solid rgba(0, 191, 165, 0.1);
+        }
+
+        .password-input {
+            width: 100%;
+            padding: 14px 20px;
+            border: 2px solid #F1F2F6;
+            border-radius: 10px;
+            font-size: 1rem;
+            background: white;
+            color: #1E1E2F;
+            transition: all 0.3s ease;
+            text-align: center;
+            letter-spacing: 2px;
+        }
+
+        .password-input:focus {
+            outline: none;
+            border-color: rgba(0, 191, 165, 0.4);
+            box-shadow: 0 0 15px rgba(0, 191, 165, 0.1);
+        }
+
+        .password-input::placeholder {
+            color: #999;
+            letter-spacing: normal;
+        }
+
+        .login-error {
+            color: #ff4757;
+            margin-top: 15px;
+            font-size: 0.9rem;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .login-error.show {
+            opacity: 1;
         }
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="login-container" id="loginContainer">
+        <div class="login-card">
+            <div style="position: absolute; top: 20px; right: 20px;">
+                <button class="btn btn-outline btn-small" onclick="logout()">Logout</button>
+            </div>
+            <img src="https://cdn.shopify.com/s/files/1/0910/8389/9266/files/ChatGPT_Image_Jun_12_2025_01_05_41_PM.png?v=1749729963" 
+                 alt="Scotch & Soda" 
+                 class="logo" style="margin-bottom: 30px;">
+            <h2 style="margin-bottom: 10px;">Access Required</h2>
+            <p style="color: #666; margin-bottom: 30px;">Enter password to view images</p>
+            <form onsubmit="handleLogin(event)">
+                <input type="password" 
+                       id="passwordInput" 
+                       class="password-input" 
+                       placeholder="Enter password" 
+                       required 
+                       autocomplete="off">
+                <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 15px;">
+                    Login
+                </button>
+            </form>
+            <div id="loginError" class="login-error"></div>
+        </div>
+    </div>
+
+    <div class="container" id="mainContainer" style="display: none;">
         <header>
             <img src="https://cdn.shopify.com/s/files/1/0910/8389/9266/files/ChatGPT_Image_Jun_12_2025_01_05_41_PM.png?v=1749729963" 
                  alt="Scotch & Soda" 
@@ -541,7 +636,10 @@
             <h2 class="section-title">API Endpoint</h2>
             <div class="url-display">
                 https://scotch-product-images.onrender.com/images/products/{SKU}_bg.png
+                <div class="info-note">
+                <strong>Note:</strong> This is a static site. Deleting images only removes them from your current view. They will reappear when you refresh the page. To permanently delete images and free up storage, you need to deploy this as a Node.js service with backend delete functionality.
             </div>
+        </div>
             <button class="btn btn-primary" onclick="copyUrl()">
                 Copy URL Template
             </button>
@@ -567,10 +665,17 @@
         </div>
 
         <div class="search-section">
-            <div class="search-bar">
-                <input type="text" class="search-input" id="searchInput" placeholder="Filter by SKU..." />
-                <button class="btn btn-primary" onclick="searchImages()">Filter</button>
-                <button class="btn btn-outline" onclick="clearSearch()">Show All</button>
+            <div class="search-bar" style="justify-content: space-between;">
+                <label style="display: flex; align-items: center; gap: 10px; cursor: pointer;">
+                    <input type="checkbox" id="selectAll" onchange="toggleSelectAll()" style="width: 20px; height: 20px; cursor: pointer;">
+                    <span style="font-weight: 600;">Select All</span>
+                </label>
+                <div style="display: flex; gap: 10px;">
+                    <button class="btn btn-danger" id="deleteSelectedBtn" onclick="deleteSelected()" style="display: none;">
+                        Delete Selected (<span id="selectedCount">0</span>)
+                    </button>
+                    <button class="btn btn-outline" onclick="deselectAll()">Clear Selection</button>
+                </div>
             </div>
         </div>
 
@@ -623,18 +728,48 @@
         let filteredImages = [];
         let currentModalImage = null;
         let imageToDelete = null;
+        let selectedImages = new Set();
 
-        // Initialize
-        window.onload = function() {
-            loadManifest();
+        // Check if user is already logged in
+        if (sessionStorage.getItem('authenticated') === 'true') {
+            showMainContent();
+        }
+
+        function handleLogin(event) {
+            event.preventDefault();
+            const password = document.getElementById('passwordInput').value;
+            const errorDiv = document.getElementById('loginError');
             
-            // Search on enter
-            document.getElementById('searchInput').addEventListener('keypress', function(e) {
-                if (e.key === 'Enter') {
-                    searchImages();
-                }
-            });
-        };
+            if (password === '123456') {
+                // Store authentication in session
+                sessionStorage.setItem('authenticated', 'true');
+                
+                // Hide login and show main content
+                document.getElementById('loginContainer').style.display = 'none';
+                showMainContent();
+            } else {
+                // Show error
+                errorDiv.textContent = 'Incorrect password. Please try again.';
+                errorDiv.classList.add('show');
+                document.getElementById('passwordInput').value = '';
+                
+                // Hide error after 3 seconds
+                setTimeout(() => {
+                    errorDiv.classList.remove('show');
+                }, 3000);
+            }
+        }
+
+        function showMainContent() {
+            document.getElementById('mainContainer').style.display = 'block';
+            document.getElementById('loginContainer').style.display = 'none';
+            loadManifest();
+        }
+
+        function logout() {
+            sessionStorage.removeItem('authenticated');
+            location.reload();
+        }
 
         function loadManifest() {
             fetch('/manifest.json')
@@ -649,6 +784,66 @@
                     document.getElementById('imagesContainer').innerHTML = 
                         '<div class="error">Failed to load images. Please refresh the page.</div>';
                 });
+        }
+
+        function toggleSelectAll() {
+            const selectAllCheckbox = document.getElementById('selectAll');
+            const checkboxes = document.querySelectorAll('.image-checkbox');
+            
+            checkboxes.forEach(checkbox => {
+                checkbox.checked = selectAllCheckbox.checked;
+            });
+            
+            updateSelection();
+        }
+
+        function updateSelection() {
+            selectedImages.clear();
+            const checkboxes = document.querySelectorAll('.image-checkbox:checked');
+            
+            checkboxes.forEach(checkbox => {
+                selectedImages.add(checkbox.dataset.sku);
+            });
+            
+            const deleteBtn = document.getElementById('deleteSelectedBtn');
+            const selectedCount = document.getElementById('selectedCount');
+            
+            if (selectedImages.size > 0) {
+                deleteBtn.style.display = 'inline-block';
+                selectedCount.textContent = selectedImages.size;
+            } else {
+                deleteBtn.style.display = 'none';
+            }
+            
+            // Update select all checkbox state
+            const selectAllCheckbox = document.getElementById('selectAll');
+            const allCheckboxes = document.querySelectorAll('.image-checkbox');
+            selectAllCheckbox.checked = selectedImages.size === allCheckboxes.length && allCheckboxes.length > 0;
+        }
+
+        function deselectAll() {
+            const checkboxes = document.querySelectorAll('.image-checkbox');
+            checkboxes.forEach(checkbox => {
+                checkbox.checked = false;
+            });
+            document.getElementById('selectAll').checked = false;
+            updateSelection();
+        }
+
+        function deleteSelected() {
+            if (selectedImages.size === 0) return;
+            
+            const count = selectedImages.size;
+            const message = count === 1 
+                ? 'Are you sure you want to delete 1 image?' 
+                : `Are you sure you want to delete ${count} images?`;
+            
+            document.getElementById('confirmMessage').textContent = message;
+            document.getElementById('overlay').style.display = 'block';
+            document.getElementById('confirmDialog').style.display = 'block';
+            
+            // Store selected images for deletion
+            imageToDelete = Array.from(selectedImages);
         }
 
         function updateStats(manifest) {
@@ -695,8 +890,15 @@
                 const card = document.createElement('div');
                 card.className = 'image-card';
                 card.dataset.sku = img.sku;
-                card.onclick = () => showModal(img);
+                card.onclick = (e) => {
+                    if (e.target.type !== 'checkbox' && !e.target.classList.contains('btn') && !e.target.classList.contains('delete-btn')) {
+                        showModal(img);
+                    }
+                };
                 card.innerHTML = `
+                    <div style="position: absolute; top: 10px; left: 10px; z-index: 10;">
+                        <input type="checkbox" class="image-checkbox" data-sku="${img.sku}" onchange="updateSelection()" onclick="event.stopPropagation()" style="width: 20px; height: 20px; cursor: pointer;">
+                    </div>
                     <button class="delete-btn" onclick="event.stopPropagation(); deleteImage('${img.sku}')" title="Delete image">
                         &times;
                     </button>
@@ -720,21 +922,11 @@
         }
 
         function searchImages() {
-            const query = document.getElementById('searchInput').value.toLowerCase();
-            if (query) {
-                filteredImages = allImages.filter(img => 
-                    img.sku.toLowerCase().includes(query)
-                );
-            } else {
-                filteredImages = allImages;
-            }
-            displayAllImages();
+            // Function removed - no filtering needed
         }
 
         function clearSearch() {
-            document.getElementById('searchInput').value = '';
-            filteredImages = allImages;
-            displayAllImages();
+            // Function removed - no filtering needed
         }
 
         function showModal(img) {
@@ -824,24 +1016,37 @@
 
         function confirmDelete() {
             if (imageToDelete) {
+                // Check if it's a single delete or multiple
+                const isMultiple = Array.isArray(imageToDelete);
+                const skusToDelete = isMultiple ? imageToDelete : [imageToDelete];
+                
                 // Remove from arrays
-                allImages = allImages.filter(img => img.sku !== imageToDelete);
-                filteredImages = filteredImages.filter(img => img.sku !== imageToDelete);
+                skusToDelete.forEach(sku => {
+                    allImages = allImages.filter(img => img.sku !== sku);
+                    filteredImages = filteredImages.filter(img => img.sku !== sku);
+                    
+                    // Update UI
+                    const card = document.querySelector(`[data-sku="${sku}"]`);
+                    if (card) {
+                        card.style.transition = 'all 0.3s ease';
+                        card.style.opacity = '0';
+                        card.style.transform = 'scale(0.8)';
+                        setTimeout(() => {
+                            card.remove();
+                        }, 300);
+                    }
+                });
                 
-                // Update UI
-                const card = document.querySelector(`[data-sku="${imageToDelete}"]`);
-                if (card) {
-                    card.style.transition = 'all 0.3s ease';
-                    card.style.opacity = '0';
-                    card.style.transform = 'scale(0.8)';
-                    setTimeout(() => {
-                        card.remove();
-                        updateStats(allImages);
-                    }, 300);
-                }
+                // Update stats after deletion
+                setTimeout(() => {
+                    updateStats(allImages);
+                    selectedImages.clear();
+                    updateSelection();
+                }, 350);
                 
-                // Note: In a real application, you would also make an API call to delete from server
-                // fetch(`/api/delete/${imageToDelete}`, { method: 'DELETE' });
+                // IMPORTANT NOTE: On a static site, this only removes images from the current view.
+                // The images will reappear when you refresh because they're still on the server.
+                // To permanently delete, you need a backend server with delete endpoints.
                 
                 cancelDelete();
             }
